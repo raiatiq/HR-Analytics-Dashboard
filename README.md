@@ -22,5 +22,6 @@ This hands-on experience helped me understand the power of data-driven decisions
 💡 Tools Used: Power BI
 🎯 Goal: Convert raw HR data into actionable insights
 
-🔍 Feedback and suggestions are welcome!
-#PowerBI #DataAnalytics #HRAnalytics #DataVisualization #FirstProject #LearningByDoing #DashboardDesign #BusinessIntelligence #DataScience
+##Dashboard
+![HR Analytics Dashboard](https://github.com/user-attachments/assets/e906faa5-0ceb-4555-9c15-375c3646913a)
+
